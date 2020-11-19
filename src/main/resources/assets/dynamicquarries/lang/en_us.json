@@ -6,7 +6,7 @@
   "item.dynamicquarries.itemtest": "Test Item",
 
   "_comment": "Tooltips:",
-  "tooltip.blocktest": "This is a test block!",
+  "tooltip.dynamicquarries.blocktest": "This is a test block!",
 
   "_comment": "Creative Tab:",
   "itemGroup.dynamicquarries": "Dynamic Quarries"

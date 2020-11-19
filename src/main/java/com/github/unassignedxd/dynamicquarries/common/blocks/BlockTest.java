@@ -22,6 +22,6 @@ public class BlockTest extends Block {
 
     @Override
     public void addInformation(ItemStack stack, @Nullable IBlockReader reader, List<ITextComponent> list, ITooltipFlag flag) {
-        list.add(new TranslationTextComponent("tooltip.blocktest"));
+        list.add(new TranslationTextComponent("tooltip.dynamicquarries.blocktest"));
     }
 }
