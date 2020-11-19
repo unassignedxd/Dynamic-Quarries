@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "yatma:block/blocktest"
+    }
+  }
+}
